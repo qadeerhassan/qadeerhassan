@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I'm Qadeer Hassan 👋
 
-<!--
-**qadeerhassan/qadeerhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Full-Stack Developer | BS Computer Science Student
 
-Here are some ideas to get you started:
+I'm a BSCS student at Superior University, Lahore, passionate about web development and continuously improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BS Computer Science — 7th Semester
+- 💻 Skills: HTML, CSS, JavaScript, PHP
+- 🌱 Currently improving my web development skills
+- 🎯 Goal: Become a professional Full-Stack Developer
+- 🤝 Open to learning opportunities and collaboration
+
+🛠️ Technical Skills
+
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP
+- Other: Basic Website Development and Management
+
+🚀 Current Goals
+
+- Strengthen programming fundamentals
+- Build practical web development projects
+- Improve problem-solving skills
+- Learn modern development technologies
+
+📫 Contact
+
+- Email: qadeer00171@gmail.com
+- GitHub: https://github.com/qadeerhassan
+
+---
+
+Always learning, building, and growing as a developer.
